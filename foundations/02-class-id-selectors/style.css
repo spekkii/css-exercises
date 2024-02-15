@@ -6,8 +6,10 @@
 #two {
     color: rgb(73, 73, 232);
     font-size: 36px;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 .odd.special{
     font-size: 24px;
 }
+
