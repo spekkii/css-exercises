@@ -9,13 +9,12 @@
     font-family: Helvetica, Arial, sans-serif;
 }
 
-.odd.special{
+.shared-font-size {
     font-size: 24px;
 }
 
 #four {
     background-color: rgb(101, 231, 101);
-    font-size: 24px;
     font-weight: 700;
     font-family: "Times New Roman", "Franklin Gothic Medium", sans;
 }
