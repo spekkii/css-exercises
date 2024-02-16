@@ -1,3 +1,7 @@
+button {
+    
+}
+
 .left-button {
     background-color: black;
     color: white;
@@ -5,5 +9,5 @@
 }
 
 .right-button {
-
+    background-color: yellow;
 }
